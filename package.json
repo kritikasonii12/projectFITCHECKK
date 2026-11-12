@@ -1,0 +1,14 @@
+{
+  "name": "fitcheck",
+  "version": "1.0.0",
+  "description": "Fitcheck — Digital Wardrobe. Full-stack outfit planner (Express + JWT auth + 2FA + JSON-file storage).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
